@@ -23,9 +23,9 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 13.0"
   
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/yourusername/dsa_visualizer/issues",
-    "changelog_uri"     => "https://github.com/yourusername/dsa_visualizer/blob/main/CHANGELOG.md",
-    "documentation_uri" => "https://github.com/yourusername/dsa_visualizer/blob/main/README.md",
-    "source_code_uri"   => "https://github.com/yourusername/dsa_visualizer"
+    "bug_tracker_uri"   => "https://github.com/Avinashkrmehta/dsa_visualizer/issues",
+    "changelog_uri"     => "https://github.com/Avinashkrmehta/dsa_visualizer/blob/main/CHANGELOG.md",
+    "documentation_uri" => "https://github.com/Avinashkrmehta/dsa_visualizer/blob/main/README.md",
+    "source_code_uri"   => "https://github.com/Avinashkrmehta/dsa_visualizer"
   }
 end
